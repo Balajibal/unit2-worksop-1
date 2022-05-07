@@ -1,5 +1,5 @@
 
-# Add Data to list and display the entered data on the screen.
+# <p align="center">Add Data to list and display the entered data on the screen.</p>
 # AIM:
 To Add Data to list and display the entered data on the screen.
 
@@ -22,7 +22,7 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 # PROGRAM:
-### activity_main.xml
+### Activity_main.xml
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
